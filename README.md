@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="fg.css">
 <h1 align="center">Hi 👋, I'm Dineshwar</h1>
 <h3 align="center">A passionate Machine Learning Practitioner from India</h3>
 
