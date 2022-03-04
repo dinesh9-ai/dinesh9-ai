@@ -1,0 +1,12 @@
+h1{
+width=100%;}
+h1 {
+  animation: rr 3s ease;}
+@keyframes rr {
+  from {
+    margin-left: 100%;
+  }
+  to {
+    margin-left: 0;
+  }
+}
