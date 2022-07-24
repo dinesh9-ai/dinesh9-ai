@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development & Open Source<br>👯 I’m looking to collaborate on Web Dev <br>🤝 I’m looking for help with Open Source Guidance<br>🌱 I’m currently learning Web Dev<br>💬 Ask me about Machine Learning<br>⚡ Fun fact "Applied: 100(around) companies:: interview: 2:: Results NYR: 1"<br>
+🔭 I’m currently working on Web Development & Open Source<br>👯 I’m looking to collaborate on Web Dev <br>🤝 I’m looking for help with Open Source Guidance<br>🌱 I’m currently learning Web Dev<br>💬 Ask me about Machine Learning<br>⚡ Fun fact "Applied: 100 companies(Around)  :: interview: 2  :: Results To be said: 1"<br>
 
 
 # 💻 Tech Stack:
